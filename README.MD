@@ -46,3 +46,35 @@ La elección entre multirepo y monorepo depende de varios factores, incluyendo:
 Tamaño del equipo: Equipos grandes con muchas dependencias pueden preferir un monorepo.
 Infraestructura: La disponibilidad de herramientas y la infraestructura para gestionar un monorepo de gran tamaño.
 Estrategia de desarrollo: La arquitectura del software y cómo se gestionan las dependencias y los ciclos de lanzamiento.
+
+
+# Que son los métodos http (Put, Post, Pat)
+
+
+también conocidos como verbos HTTP, son instrucciones que indican la acción que se desea realizar sobre un recurso específico en un servidor web. Son fundamentales para la comunicación entre un cliente y un servidor web
+
+Entre los métodos HTTP más comunes se encuentran GET, POST, PUT y DELETE
+## GET: Recupera datos de un recurso.
+## POST: Envía datos al servidor para su procesamiento o almacenamiento.
+## PUT: Actualiza un recurso existente.
+## DELETE: Elimina un recurso.
+
+
+# Métodos HTTP adicionales:
+
+•	PATCH: Similar a PUT, pero actualiza solo una parte específica de un recurso
+•	HEAD: Similar a GET, pero solo recupera los encabezados de la respuesta, no el cuerpo del recurso.
+•	OPTIONS: Obtiene las opciones de solicitud HTTP disponibles para un recurso específico.
+
+
+
+
+# VERSIONAMIENTO QUE USAREMOS DE NODE
+
+
+•	Utilizaremos para este proyecto la versión v20.14.0 ya que es la versión con soporte a largo plazo (lts) en este momento
+
+# ¿Vamos a utilizar multirepo o monorepo?
+
+En este caso vamos a utilizar multirepo ya que hemos visto que los cambios en un repositorio no afectan directamente a otros, lo que facilita el aislamiento de problemas  y es más sencillo gestionar permisos de acceso específicos para cada repositorio.
+
