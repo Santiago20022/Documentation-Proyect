@@ -78,3 +78,19 @@ Entre los métodos HTTP más comunes se encuentran GET, POST, PUT y DELETE
 
 En este caso vamos a utilizar multirepo ya que hemos visto que los cambios en un repositorio no afectan directamente a otros, lo que facilita el aislamiento de problemas  y es más sencillo gestionar permisos de acceso específicos para cada repositorio.
 
+# ¿Problemas, objetivos y/o servicios del proyecto o unidades residenciales?
+para ver el alcance del projecto 
+  Requerimientos por parte de los usuarios o dueños de apartamentos o persona que viven en la unidad
+- es necesario poder tener cuenta de usuario por cada apartamento
+- que puedan hacer solicitud de reservas de zonas comunes
+- que puedan enviar fotos y/o emails con problemas de daños o situaciones en el conjunto
+- un enlace para el pago de la factura de la administracion
+
+
+  Requerimientos por parte de la administracion
+- usuario admin
+- poder hacer publicaciones y/o avisos
+- poder enviar cartas a correos certificados de los usuarios para notificaciones
+- poder crear encuestas en la pagina sobre diferentes temas
+- tener un apartado de gestion del edficio economicamente.
+- hacer la aprobacion de las reservas de zonas comunes.
