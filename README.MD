@@ -78,9 +78,28 @@ Entre los métodos HTTP más comunes se encuentran GET, POST, PUT y DELETE
 
 En este caso vamos a utilizar multirepo ya que hemos visto que los cambios en un repositorio no afectan directamente a otros, lo que facilita el aislamiento de problemas  y es más sencillo gestionar permisos de acceso específicos para cada repositorio.
 
+<<<<<<< HEAD
 
 
 # differences between npm and yarn
 
 
 Tanto NPM como Yarn son herramientas potentes para la gestión de paquetes de JavaScript y la elección entre ellas depende de los requisitos y preferencias de su proyecto. NPM, al ser el administrador de paquetes predeterminado para Node.js, goza de una adopción y compatibilidad generalizadas. Por otro lado, Yarn ofrece ventajas como rendimiento mejorado, resolución de dependencia determinista, instalación paralela y mejor soporte para espacios de trabajo y monorepos.
+=======
+# ¿Problemas, objetivos y/o servicios del proyecto o unidades residenciales?
+para ver el alcance del projecto 
+  Requerimientos por parte de los usuarios o dueños de apartamentos o persona que viven en la unidad
+- es necesario poder tener cuenta de usuario por cada apartamento
+- que puedan hacer solicitud de reservas de zonas comunes
+- que puedan enviar fotos y/o emails con problemas de daños o situaciones en el conjunto
+- un enlace para el pago de la factura de la administracion
+
+
+  Requerimientos por parte de la administracion
+- usuario admin
+- poder hacer publicaciones y/o avisos
+- poder enviar cartas a correos certificados de los usuarios para notificaciones
+- poder crear encuestas en la pagina sobre diferentes temas
+- tener un apartado de gestion del edficio economicamente.
+- hacer la aprobacion de las reservas de zonas comunes.
+>>>>>>> b671b9c36ece97c3941d1c8a899fd41b6cadadbf
