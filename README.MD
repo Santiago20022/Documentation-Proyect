@@ -102,3 +102,39 @@ para ver el alcance del projecto
 Tanto NPM como Yarn son herramientas potentes para la gestión de paquetes de JavaScript y la elección entre ellas depende de los requisitos y preferencias de su proyecto. NPM, al ser el administrador de paquetes predeterminado para Node.js, goza de una adopción y compatibilidad generalizadas. Por otro lado, Yarn ofrece ventajas como rendimiento mejorado, resolución de dependencia determinista, instalación paralela y mejor soporte para espacios de trabajo y monorepos.
 
 
+# Definition of nvm
+
+Node Version Manager (NVM), como su nombre lo indica, es una herramienta para administrar las versiones de Node en su dispositivo . Es posible que diferentes proyectos en su dispositivo utilicen diferentes versiones de Node. Es posible que usar solo una versión (la instalada por npm) para estos diferentes proyectos no le brinde resultados de ejecución precisos.
+
+basicamente es para poder saltar de version node.js y hacer un update rapido 
+
+(pagina para instalar nvm paso a paso https://4geeks.com/es/how-to/como-instalar-nvm-en-windows)
+
+
+# Definiton of swagger
+
+Conjunto de herramientas Swagger:
+
+Es un conjunto de herramientas de código abierto que se basan en la especificación OpenAPI.
+
+Incluye herramientas para:
+- Documentar APIs: Genera documentación completa y legible para humanos y máquinas a partir de la definición de la API.
+- Diseñar APIs: Permite a los desarrolladores diseñar APIs de forma visual y colaborativa.
+- Probar APIs: Proporciona herramientas para probar las APIs y garantizar su correcto funcionamiento.
+- Generar código: Puede generar código fuente en diferentes lenguajes de programación a partir de la definición de la API.
+
+
+En resumen, Swagger es una herramienta esencial para el desarrollo y consumo de API REST.
+
+
+
+# definition of Eslint
+
+ESLint es una herramienta de análisis estático de código para JavaScript.
+
+Su función principal es identificar y corregir errores, problemas de estilo y violaciones de las convenciones de codificación en proyectos de desarrollo de JavaScript.
+
+ESLint ayuda a los desarrolladores a escribir código más limpio, consistente y mantenible.
+
+Es una herramienta muy versátil que se puede configurar para adaptarse a las necesidades de cualquier proyecto o equipo de desarrollo.
+
